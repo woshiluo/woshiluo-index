@@ -1,8 +1,6 @@
 # woshiluo-index
 
-<p class="text-align:center">
 ![Favicon](https://woshiluo.com/favicon.png)
-</p>
 
 > 一个使用 Vue.js 编写的个人卡片页
 
