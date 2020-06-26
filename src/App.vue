@@ -139,10 +139,12 @@ export default {
 }
 
 .card {
+	display: flex;
+	flex-direction: column;
 	max-height: 60vh;
 }
 .card-content {
-	max-height: 60vh;
+	max-height: 50vh;
 	overflow: auto;
 }
 .card-header {
@@ -154,6 +156,7 @@ export default {
 }
 
 .footer {
+	padding: 5px;
 	text-align: center;
 }
 
