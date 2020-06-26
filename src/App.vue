@@ -144,7 +144,6 @@ export default {
 	max-height: 60vh;
 }
 .card-content {
-	max-height: 50vh;
 	overflow: auto;
 }
 .card-header {
