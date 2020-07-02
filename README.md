@@ -2,7 +2,7 @@
 
 ![Favicon](https://woshiluo.com/favicon.png)
 
-> 一个使用 Vue.js 编写的个人卡片页
+> 一个使用 Vue.js 和 [MDUI](https://www.mdui.org/) 编写的个人卡片页
 
 ## Project setup
 ```
