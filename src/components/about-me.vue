@@ -5,7 +5,7 @@
 			<p>弱省选手/菜的真实</p>
 			<p>Oi/前端萌新/Rust萌新/PHP萌新</p>
 			<p>纯音乐/LoveLive!/Galgame/VC</p>
-			<p>不喜欢 Emjoi</p>
+			<p>不喜欢 Emoji</p>
 		</div>
 	</div>
 </template>
