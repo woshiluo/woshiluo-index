@@ -73,6 +73,7 @@ export default {
 						{ "url": "/woshiluo.asc", "description": "A2AA 7A24 7192 8C32 4407  7AA5 42AC 62C6 1460 1460", "title": "GnuPG" },
 						{ "url": "https://github.com/woshiluo", "description": "@woshiluo", "title": "Github" },
 						{ "url": "https://loj.ac/user/7852", "description": "@Woshiluo", "title": "LibreOJ" },
+						{ "url": "https://codeforces.com/profile/woshiluo", "description": "@woshiluo", "title": "Codeforces" },
 						{ "url": "https://space.bilibili.com/99800931", "description": "@woshiluo-Bzhan", "title": "Bilibili" },
 					] } 
 				},
