@@ -1,11 +1,11 @@
 <template>
 	<div class="mdui-typo">
 		<div class="mdui-center about-card">
-			<p>准高一/鸽子</p>
+			<p>高一/鸽子</p>
 			<p>弱省选手/菜的真实</p>
 			<p>Oi/前端萌新/Rust萌新/PHP萌新</p>
 			<p>纯音乐/LoveLive!/Galgame/VC</p>
-			<p>不喜欢 Emoji</p>
+			<p>不喜欢 Emoji/云推 V</p>
 		</div>
 	</div>
 </template>
