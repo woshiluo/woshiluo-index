@@ -21,7 +21,7 @@
 export default {
 	props: {
 		"use_image": {
-			typr: Boolean,
+			type: Boolean,
 			default: false
 		},
 		"image_src": {
